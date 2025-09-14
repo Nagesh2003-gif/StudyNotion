@@ -18,10 +18,6 @@
 
 <img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750253232/Screenshot_2025-06-18_185648_szugkv.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750253048/Screenshot_2025-06-18_185352_ds3um8.png" alt="project-screenshot" width="1024" height="500/">
-
-<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251005/Screenshot_2025-06-18_181757_hyj9i3.png" alt="project-screenshot" width="1024" height="500/">
-
 <img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252784/Screenshot_2025-06-18_184926_dtdrcz.png" alt="project-screenshot" width="1024" height="500/">
 
 <img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252413/Screenshot_2025-06-18_184306_qhlmqv.png" alt="project-screenshot" width="1024" height="500/">
