@@ -39,9 +39,6 @@
 <img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251781/Screenshot_2025-06-18_183114_asz0kq.png" width="1024" height="500/">
 
 <img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251834/Screenshot_2025-06-18_183206_ceprlu.png" width="1024" height="500/">
-
-<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252888/Screenshot_2025-06-18_185110_en17x8.png" alt="project-screenshot" width="1024" height="500/">
-
   
   
 <h2>🧐 Features</h2>
